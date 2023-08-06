@@ -24,7 +24,7 @@ pip install numpy
 2. Run the script using the following command:
 
 ```
-python analyze_data.py
+python calculate_statistics.py
 ```
 
 3. The script will prompt you to provide the path to the file containing numerical data. Enter the file path and press Enter.
